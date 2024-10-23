@@ -2,9 +2,9 @@
 # Pentesting Report: juice shop Web Application
 
 ## Overview
-This document provides a detailed security assessment of the **Dojuicer** legacy web application, specifically targeting vulnerabilities identified through a BlackBox Web Application Penetration Test. The engagement was conducted between **October 1, 2024** (testing date) and **October 20, 2024** (report delivery date).
+This document provides a detailed security assessment of the **juice shop** legacy web application, specifically targeting vulnerabilities identified through a BlackBox Web Application Penetration Test. The engagement was conducted between **October 1, 2024** (testing date) and **October 20, 2024** (report delivery date).
 
-The report covers high, medium, and low-risk vulnerabilities, along with recommended remediation measures to enhance the security posture of the Dojuicer web application. The assessment was carried out using a combination of manual testing and automated tools to ensure thorough evaluation.
+The report covers high, medium, and low-risk vulnerabilities, along with recommended remediation measures to enhance the security posture of the juice shop web application. The assessment was carried out using a combination of manual testing and automated tools to ensure thorough evaluation.
 
 ## Key Sections
 1. **Security Engagement Summary**  
